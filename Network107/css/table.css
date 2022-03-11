@@ -1,0 +1,31 @@
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin:auto;
+  }
+  
+  th, td {
+    padding: 8px;
+    border: 1px solid #DDD;
+    width: 10px;
+    height: 90px;
+  }
+
+  th {
+      background-color: black;
+      color: white;
+  }
+
+  td {
+    background-color: rgb(263, 30, 38);
+    text-align: left;
+    vertical-align: 0;
+  }
+
+  input{
+    padding: 6px;
+    width: 40%;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+  }

@@ -1,0 +1,19 @@
+.row {
+    display: flex;
+    max-width: 80%;
+    margin-left: 13%;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+h3{
+    color: white;
+    background-color: black;
+    max-width: 80%;
+    margin-left: 13%;
+}
+img{
+    border: 5px solid black;
+}
